@@ -1,0 +1,29 @@
+.top{
+    flex-direction:row;
+    justify-content: space-around;
+    display:flex;
+}
+.a{
+    flex-direction:column;
+    display:flex;
+    align-items:center;
+}
+
+.profile{
+    margin-right: 20%;
+}
+.b{
+    margin-right: 15%;
+}
+.c{
+    margin-right:19%;
+}
+.d{
+    margin-right: 10%;
+}
+.e{
+    margin-right: 35%;
+}
+
+
+
